@@ -21,7 +21,7 @@ Raspberry Pi OS からの変更内容は次のとおりです。
   * APT::Periodic の無効化
   * avahi-daemon で ppp0 と wwan0 を無視
   * slee-Pi3 用パッケージをインストール
-  * Raspbian のパッケージを 20220105 時点の最新版に更新
+  * Raspbian のパッケージを 20220127 時点の最新版に更新
 
 ## インストールパッケージ
   * Raspbian パッケージ  
